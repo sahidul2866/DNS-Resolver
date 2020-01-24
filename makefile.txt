@@ -1,0 +1,4 @@
+compile:
+    javac DnsResolver.java
+run:
+    java DnsResolver hostname
